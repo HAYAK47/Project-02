@@ -31,4 +31,5 @@ We manage and distribute our work to avoid conflict using Trello. We tried to co
 
 
 ERD: 
- 
+ <img width="1352" alt="Screen Shot 2023-02-28 at 3 37 30 PM" src="https://user-images.githubusercontent.com/123125506/222347508-cd1e1e96-6f04-4de9-926e-b837be24d929.png">
+
