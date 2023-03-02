@@ -1,7 +1,7 @@
 Watch list of drama related to anime movies and series. Home page is the newest news of anime. First, you need to register to create your own profile then create your own list of favorite movies/series. Classified into three categories: planning to watch, currently watching and already watched. Also, allows you to rate what are you seeing and delete it when you don’t need it. 
 
 Functionalities: 
-Using two schemas for the user and items added to the list as one to many relationships. User register their data to database and add the items with the data needed and will be generated in their own list. 
+Using two schemas for the user and items added to the list as one to many relationships. User will be able to add, delete and edit their items. for future work the user will be able to make their profile public to show other users what on. 
 Technologies used: HTML CSS JS Mongoose Node js
 Link: https://
 Wireframes:
