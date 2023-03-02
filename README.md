@@ -1,4 +1,4 @@
-Watch list of drama related to anime movies and series. Home page is the newest news of anime. First, you need to register to create your own profile then create your own list of favorite movies/series. Classified into three categories: planning to watch, currently watching and already watched. Also, allows you to rate what are you seeing and delete it when you don’t need it. 
+Watch list of drama related to anime movies and series. Our app is about a watch list of anime drama. The registered user will be able to create a profile with the details of his own. Then he will be able to add an item of which episode or movie classified into three categories: planning to watch, currently watching and already watched and rate it. Will be able to delete and edit each item on the list.
 
 Functionalities: 
 Using two schemas for the user and items added to the list as one to many relationships. User will be able to add, delete and edit their items. for future work the user will be able to make their profile public to show other users what on. 
