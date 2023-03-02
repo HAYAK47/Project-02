@@ -8,17 +8,7 @@ Wireframes:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+![New Wireframe 1](https://user-images.githubusercontent.com/123125506/222347686-50004963-95ae-485d-a2d0-dc0bc6f12848.png)
 
 
 
@@ -26,10 +16,11 @@ Wireframes:
 
 Trello: 
 We manage and distribute our work to avoid conflict using Trello. We tried to complete each task in limited period. 
+ <img width="1352" alt="Screen Shot 2023-02-28 at 3 37 30 PM" src="https://user-images.githubusercontent.com/123125506/222347508-cd1e1e96-6f04-4de9-926e-b837be24d929.png">
 
  
 
 
 ERD: 
- <img width="1352" alt="Screen Shot 2023-02-28 at 3 37 30 PM" src="https://user-images.githubusercontent.com/123125506/222347508-cd1e1e96-6f04-4de9-926e-b837be24d929.png">
 
+![Untitled Workspace](https://user-images.githubusercontent.com/123125506/222347751-8151f80f-b96e-4e26-ae5b-cb41eb686155.jpeg)
